@@ -7,17 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://NEDJIMAbelgacem.github.io/categories/gsoc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My GSoC journey</title>
-      <link>https://NEDJIMAbelgacem.github.io/posts/1/01/my-gsoc-journey/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://NEDJIMAbelgacem.github.io/posts/2020/09/my-gsoc-journey/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://NEDJIMAbelgacem.github.io/posts/1/01/my-gsoc-journey/</guid>
-      <description>HI,
+      <guid>https://NEDJIMAbelgacem.github.io/posts/2020/09/my-gsoc-journey/</guid>
+      <description>Hi,
 With the Google summer of code final results out today (8 September 2020). I thought I should make a blog post my experience in Google Summer of Code project, how I got into the program, what I did and how it went. It was an amazing experience and I highly recommend any student to participate in the program.
 What is GSoC ? From the GSoC website:
  Google Summer of Code is a global program focused on bringing more student developers into open source software development.</description>

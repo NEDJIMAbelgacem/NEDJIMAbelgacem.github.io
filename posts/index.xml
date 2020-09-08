@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Belgacem Nedjima Blog</title>
-        <link>NEDJIMAbelgacem.github.io/posts/</link>
+        <link>https://NEDJIMAbelgacem.github.io/posts/</link>
         <description>Recent content in Posts on Belgacem Nedjima Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <atom:link href="NEDJIMAbelgacem.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://NEDJIMAbelgacem.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>My GSoC journey</title>
-            <link>NEDJIMAbelgacem.github.io/posts/1/01/my-gsoc-journey/</link>
+            <link>https://NEDJIMAbelgacem.github.io/posts/1/01/my-gsoc-journey/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             
-            <guid>NEDJIMAbelgacem.github.io/posts/1/01/my-gsoc-journey/</guid>
+            <guid>https://NEDJIMAbelgacem.github.io/posts/1/01/my-gsoc-journey/</guid>
             <description>HI,
 With the Google summer of code final results out today (8 September 2020). I thought I should make a blog post my experience in Google Summer of Code project, how I got into the program, what I did and how it went. It was an amazing experience and I highly recommend any student to participate in the program.
 What is GSoC ? From the GSoC website:

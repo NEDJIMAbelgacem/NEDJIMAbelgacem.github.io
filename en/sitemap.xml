@@ -3,79 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>NEDJIMAbelgacem.github.io/about/</loc>
+    <loc>https://NEDJIMAbelgacem.github.io/about/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>NEDJIMAbelgacem.github.io/</loc>
+    <loc>https://NEDJIMAbelgacem.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="NEDJIMAbelgacem.github.io/fr/"
+                href="https://NEDJIMAbelgacem.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="NEDJIMAbelgacem.github.io/"
+                href="https://NEDJIMAbelgacem.github.io/"
                 />
   </url>
   
   <url>
-    <loc>NEDJIMAbelgacem.github.io/categories/</loc>
+    <loc>https://NEDJIMAbelgacem.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="NEDJIMAbelgacem.github.io/fr/categories/"
+                href="https://NEDJIMAbelgacem.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="NEDJIMAbelgacem.github.io/categories/"
+                href="https://NEDJIMAbelgacem.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>NEDJIMAbelgacem.github.io/categories/gsoc/</loc>
+    <loc>https://NEDJIMAbelgacem.github.io/categories/gsoc/</loc>
   </url>
   
   <url>
-    <loc>NEDJIMAbelgacem.github.io/posts/1/01/my-gsoc-journey/</loc>
+    <loc>https://NEDJIMAbelgacem.github.io/posts/1/01/my-gsoc-journey/</loc>
   </url>
   
   <url>
-    <loc>NEDJIMAbelgacem.github.io/posts/</loc>
+    <loc>https://NEDJIMAbelgacem.github.io/posts/</loc>
   </url>
   
   <url>
-    <loc>NEDJIMAbelgacem.github.io/categories/programming/</loc>
+    <loc>https://NEDJIMAbelgacem.github.io/categories/programming/</loc>
   </url>
   
   <url>
-    <loc>NEDJIMAbelgacem.github.io/series/</loc>
+    <loc>https://NEDJIMAbelgacem.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="NEDJIMAbelgacem.github.io/fr/series/"
+                href="https://NEDJIMAbelgacem.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="NEDJIMAbelgacem.github.io/series/"
+                href="https://NEDJIMAbelgacem.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>NEDJIMAbelgacem.github.io/tags/</loc>
+    <loc>https://NEDJIMAbelgacem.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="NEDJIMAbelgacem.github.io/fr/tags/"
+                href="https://NEDJIMAbelgacem.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="NEDJIMAbelgacem.github.io/tags/"
+                href="https://NEDJIMAbelgacem.github.io/tags/"
                 />
   </url>
   

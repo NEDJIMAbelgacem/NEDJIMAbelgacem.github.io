@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Belgacem Nedjima Blog</title>
+    <link>localhost/</link>
+    <description>Recent content on Belgacem Nedjima Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    
+	<atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>localhost/about/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/about/</guid>
+      <description>Hi, I am Belgcem Nedjima and I am mostly interested in programming, 3D graphics rendering, C++ and many other random things. I will be writing about things in programming that I experimented with and wants to share them with people here from time to time.</description>
+    </item>
+    
+    <item>
+      <title>My GSoC journey</title>
+      <link>localhost/posts/1/01/my-gsoc-journey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/posts/1/01/my-gsoc-journey/</guid>
+      <description>HI,
+With the Google summer of code final results out today (8 September 2020). I thought I should make a blog post my experience in Google Summer of Code project, how I got into the program, what I did and how it went. It was an amazing experience and I highly recommend any student to participate in the program.
+What is GSoC ? From the GSoC website:
+ Google Summer of Code is a global program focused on bringing more student developers into open source software development.</description>
+    </item>
+    
+  </channel>
+</rss>
